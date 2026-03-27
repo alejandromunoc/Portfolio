@@ -16,4 +16,4 @@ Welcome to my professional repository. This space hosts my academic achievements
 * **Hardware:** Embedded Systems, Industrial Sensors
 
 ---
-**Contact:** [https://www.linkedin.com/in/jose-alejandro-munoz-cisneros-009472213/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMF4%2FuviZT0uqrRHXwctqaQ%3D%3D]
+**Contact:** [My LinkedIn Profile](https://www.linkedin.com/in/jose-alejandro-munoz-cisneros-009472213/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BeuLYUmYARJO6NlJCEoqO4w%3D%3D)
