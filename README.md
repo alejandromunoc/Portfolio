@@ -10,7 +10,7 @@ Welcome to my professional repository. This space hosts my academic achievements
 * **Oracle Cloud Infrastructure (OCI) AI Foundations Associate**
 * [Add your next certification here]
 
-## 🌎 Add volunteer experience
+## 🌎 Volunteer experience
 * **Science and Technology**
 * [Add your next certification here]
 
