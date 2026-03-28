@@ -12,7 +12,7 @@ Welcome to my professional repository. This space hosts my academic achievements
 
 ## 🌎 Volunteer experience
 * **Science and Technology**
-* [View Volunteer experience PDF](./MunozAlejandro-CECYTE)
+* [View Volunteer experience PDF](./MunozAlejandro-CECYTE.pdf)
 
 
 ## 🛠️ Technical Skills
